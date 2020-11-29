@@ -1,3 +1,6 @@
+# Fotografija
+![Profilna slika](img/slika.jpg)
+
 # Osobni podatci
 - Ime: Donat
 - Prezime: Petešić
